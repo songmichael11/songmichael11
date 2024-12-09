@@ -1,1 +1,0 @@
-Michael Song, NEU 2028, CS + Bio
