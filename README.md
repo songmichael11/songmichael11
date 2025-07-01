@@ -1,5 +1,6 @@
 # Welcome! 
-I'm Michael, a second-year at Northeastern University majoring in Computer Science and Biology. I'm interested in software development and data analytics, in addition to bioinformatics and biology research. I'm always interested in new projects, and I'm currently looking for Spring 2026 co-ops and Summer 2026 internships! More info about me is on my [Linkedin](https://www.linkedin.com/in/songmichael11/) or reach out to me at songmichael11@gmail.com.
+I'm Michael, a second-year at Northeastern University majoring in Computer Science and Biology. I'm interested in software development and data analytics, in addition to bioinformatics and biology research. 
+I'm always interested in new projects, and I'm currently looking for Spring 2026 co-ops and Summer 2026 internships! More info about me is on my [Linkedin](https://www.linkedin.com/in/songmichael11/) or reach out to me at songmichael11@gmail.com.
 
 ## Current Projects:
 - Cooper, A tool for Northeastern students to both submit reviews of their co-ops and filter through reviews of co-ops left by other students. Working with a team of developers and designers through SandboxNU.
