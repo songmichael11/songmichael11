@@ -5,6 +5,7 @@ I'm always interested in new projects, and I'm currently looking for Spring 2026
 ## Current Projects:
 - Cooper, A tool for Northeastern students to both submit reviews of their co-ops and filter through reviews of co-ops left by other students. Working with a team of developers and designers through SandboxNU.
 - My Personal Website!
+- Cleaning up my senior thesis work and expanding on it.
 
 ## Technologies I know:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
